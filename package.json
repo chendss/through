@@ -1,0 +1,12 @@
+{
+  "name": "seneca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "dependencies": {
+    "connect-timeout": "^1.9.0",
+    "express": "^4.16.3",
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
